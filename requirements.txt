@@ -6,4 +6,6 @@ seaborn>=0.12
 regex>=2023.6
 tqdm>=4.65
 ipykernel
-streamlit
+
+streamlit==1.19.0
+altair==4.2.2
