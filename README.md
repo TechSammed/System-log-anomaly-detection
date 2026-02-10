@@ -62,7 +62,7 @@ The deployed dashboard provides:
 ## 📊 Results & Visualizations
 
 ### PCA-based Anomaly Detection
-![PCA Anomaly](images/PCA_visulization_of_log_window.png)
+![PCA Anomaly](images/PCA_viuulization_of_log_window.png)
 
 ### Anomaly Score over Time
 ![Anomaly Score](images/Anolomy_score_over_the_time.png)
